@@ -2,7 +2,7 @@
 
 ---
 
-A Software Engineer. work experience with the technologies listed below.
+A Software Engineer. Work experience with the technologies listed below.
 
 ---
 
