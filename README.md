@@ -2,7 +2,7 @@
 
 ---
 
-A Software Engineer specializing in JavaScript technologies. Professional experience with the technologies listed below.
+A Software Engineer. work experience with the technologies listed below.
 
 ---
 
