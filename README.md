@@ -1,7 +1,5 @@
-### Nice to meet you! 👋
-
-[![MohammadShehadeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadshhadeh&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=mohammadshhadeh&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mohammadshhadeh&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mohammadshhadeh/mohammadshhadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
