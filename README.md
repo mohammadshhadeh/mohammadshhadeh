@@ -1,11 +1,5 @@
 ### Nice to meet you! 👋
 
----
-
-A Software Engineer. Work experience with the technologies listed below.
-
----
-
 [![MohammadShehadeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadshhadeh&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
